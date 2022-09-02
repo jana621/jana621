@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jana621&label=Profile%20views&color=0e75b6&style=flat" alt="jana621" /> </p>
 
-- <p>Portfolio - <a href="https://roaring-granita-e7b48e.netlify.app" >View</a></P>
+- <h4>Portfolio - <a href="https://roaring-granita-e7b48e.netlify.app" target="_blank" >View</a></h4>
 
 - 💬 Ask me about **MERN**
 
