@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janarthanan</h1>
 <h3 align="center">Certified MERN Stack Developer from Chennai. Interested to work in both front and back end operations.</h3>
-<p align="center">
-<a href="https://twitter.com/janarthanan" target="blank"><img align="center" src="https://media.istockphoto.com/vectors/portfolio-word-with-pencil-instead-of-letter-i-art-and-design-gallery-vector-id1212925760?k=20&m=1212925760&s=170667a&w=0&h=34bmPTw9xPF8HUAIVYNIj_K5J-wxNaULmUOMY0zOeOY=" alt="janarthanan" width="400px" height="150px" /></a>
-</p>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jana621&label=Profile%20views&color=0e75b6&style=flat" alt="jana621" /> </p>
